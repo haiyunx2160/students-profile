@@ -1,0 +1,50 @@
+body {
+    background-color: lightgray;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.search-bar{
+    width: 50%;
+    margin: 0 auto;
+}
+.wrapper{
+    width: 80%;
+    background-color: white;
+    margin: 5% 10%;
+    border: 1px solid lightgray;
+    white-space: nowrap;
+    border-radius: 3px;
+}
+
+img {
+    display: inline-block;
+    height: 20%;
+    width: 20%;
+    margin-left: 3%;
+    border: lightgrey solid 1px;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+.student-info{
+    horiz-align: center;
+    margin-left: 10%;
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+.grades{
+    margin-left: -8%;
+
+}
+li{
+    list-style-type: none;
+
+}
+
+.tag-input{
+    border: 0;
+}
+
+
+
